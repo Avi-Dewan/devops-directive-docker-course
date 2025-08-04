@@ -40,4 +40,3 @@ Docker can login directly to some registries with basic authentication (username
 If available, Docker can also store the credentials in a secure store (`macOS keychain`, `Windows Credential Manager`) to help protect those credentials.
 
 ![](./readme-assets/credential-helper.jpg)
-
